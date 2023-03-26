@@ -1,0 +1,11 @@
+{
+  "name": "easymaterialfinder",
+  "displayName": "Easy Material Finder",
+  "version": "0.2.0",
+  "description": "A Unity Editor Window to help you quickly select all materials attached to a gameobject and it's children.",
+  "gitDependencies": {},
+  "legacyFolders": {},
+  "legacyFiles": {},
+  "localPath": "D:\\VRChat Stuff\\Unity Folder\\Udon Test Stuff\\Packages\\materialfinder.oblivious",
+  "unity": "2019.4"
+}
