@@ -1,7 +1,7 @@
 {
-    "name": "materialfinder.oblivious.Editor",
+    "name": "easymaterialfinder.oblivious.Editor",
     "references": [
-        "materialfinder.oblivious"
+        "easymaterialfinder.oblivious"
     ],
     "includePlatforms": [
         "Editor"

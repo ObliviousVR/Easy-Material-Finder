@@ -1,8 +1,6 @@
 {
-  "name": "materialfinder.oblivious",
-  "references": [
-    "VRC.SDKBase"
-  ],
+  "name": "easymaterialfinder.oblivious",
+  "references": [],
   "includePlatforms": [],
   "excludePlatforms": [],
   "allowUnsafeCode": false,
