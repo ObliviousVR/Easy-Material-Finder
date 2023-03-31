@@ -1,16 +1,17 @@
 {
-  "name": "materialfinder.oblivious.Editor",
-  "references": [
-    "VRC.SDKBase",
-    "VRC.SDKBase.Editor",
-    "materialfinder.oblivious"
-  ],
-  "includePlatforms": [],
-  "excludePlatforms": [],
-  "allowUnsafeCode": false,
-  "autoReferenced": true,
-  "overrideReferences": false,
-  "precompiledReferences": [],
-  "defineConstraints": [],
-  "optionalUnityReferences": []
+    "name": "materialfinder.oblivious.Editor",
+    "references": [
+        "materialfinder.oblivious"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
