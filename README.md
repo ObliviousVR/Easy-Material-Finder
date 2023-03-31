@@ -13,4 +13,4 @@ Place the gameobject you wish to search though in the "GameObject" slot, and hit
 ```sh 
 vpm add repo https://thryrallo.github.io/VRC-Avatar-Performance-Tools
 ```
-3. In Creator Compantion click "Manage Project". In the top right under "Selected Repos" check the Avatar Performance Tools listing
+3. In Creator Compantion click "Manage Project". In the top right under "Selected Repos" check the Material Finder listing
