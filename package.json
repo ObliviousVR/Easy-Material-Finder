@@ -1,7 +1,7 @@
 {
   "name": "easymaterialfinder.oblivious",
   "displayName": "Easy Material Finder",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "A Unity Editor Window to help you quickly select all materials attached to a gameobject and it's children.",
   "gitDependencies": {},
   "vpmDependencies": {},
